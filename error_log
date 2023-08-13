@@ -1,0 +1,5 @@
+[03-Mar-2022 14:19:27 UTC] PHP Fatal error:  Redefinition of parameter $test2 in /home3/topatlaw/public_html/app/Http/Controllers/SiteController.php on line 156
+[03-Mar-2022 14:19:29 UTC] PHP Fatal error:  Redefinition of parameter $test2 in /home3/topatlaw/public_html/app/Http/Controllers/SiteController.php on line 156
+[31-Mar-2022 23:59:17 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home3/topatlaw/public_html/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 176
+[01-Apr-2022 00:04:27 America/Boise] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home3/topatlaw/public_html/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 176
+[01-Apr-2022 04:15:51 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home3/topatlaw/public_html/vendor/composer/platform_check.php on line 24

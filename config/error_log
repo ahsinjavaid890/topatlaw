@@ -1,0 +1,12 @@
+[30-Jan-2022 06:15:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/topatlaw/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/topatlaw/public_html/config/app.php on line 16
+[30-Jan-2022 06:15:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/topatlaw/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/topatlaw/public_html/config/app.php on line 16
+[11-Apr-2023 14:27:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/topatlaw/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/topatlaw/public_html/config/cache.php on line 21
